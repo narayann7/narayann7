@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)   
+
+ 
+ 
+ 
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&hide=c,cmake,html,swift,kotlin,objective-c&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
