@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 its narayann 
 
 <!--
 **narayann7/narayann7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&hide=c,cmake,html,swift,kotlin,objective-c)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&hide=c,cmake,html,swift,kotlin,objective-c&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
