@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🤝 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/-narayan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/-laxminarayanreddy432@gmail.com-D90D0D?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/narayann7/"><img src="https://img.shields.io/badge/-@narayann7-FFAC32?style=flat&logo=Leetcode&logoColor=black"/></a>
