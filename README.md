@@ -1,5 +1,8 @@
 ### Hi there 👋 its narayann 
 
+- 🔭 I’m currently working on flutter and dart
+- 🌱 I’m currently learning server side using nodejs
+
 <!--
 **narayann7/narayann7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
