@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/-narayan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/-laxminarayanreddy432@gmail.com-D90D0D?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/narayann7/"><img src="https://img.shields.io/badge/-@narayann7-FFAC32?style=flat&logo=Leetcode&logoColor=black"/></a>
- <br>
 <a href="https://instagram.com/_narayann"><img src="https://img.shields.io/badge/-@_narayann-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  <a href="https://open.spotify.com/user/jkqb4becefsfolv4ynnd7hrrq?si=ELqmbrNKSmi2gkE_KGOvXw&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/-narayann-6CDB39?style=flat&logo=Spotify&logoColor=white"/></a>
 <a href="https://www.facebook.com/GoD7LiKe"><img src="https://img.shields.io/badge/-@narayan-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
