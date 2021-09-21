@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 🤝 &nbsp;Connect with Me
-
+<!-- 
 <p align="left">
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/-narayan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/-laxminarayanreddy432@gmail.com-D90D0D?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -42,7 +42,18 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/GoD7LiKe"><img src="https://img.shields.io/badge/-@narayan-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
  <a href="https://twitter.com/_narayann7"><img src="https://img.shields.io/badge/-@_narayann7-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <br>i am there everyWhere 😋
-
+ -->
+ 
+ 
+ 
+ <p align="left">
+<a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/_narayann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/narayann7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://instagram.com/_narayann"><img src="https://img.shields.io/badge/spotify-%FFAC32.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</p>
+ 
 <!-- <a href="https://www.pinterest.ca/"><img src="https://img.shields.io/badge/-@name?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/"><img src="https://img.shields.io/badge/-@name?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
