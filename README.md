@@ -4,11 +4,6 @@
 - 🌱 I’m currently learning server side using nodejs
 - ⚡ I’m a linux enthusiast
 
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/CIPHERTron/count.svg" />
-</p>
-
 <!--
 **narayann7/narayann7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
