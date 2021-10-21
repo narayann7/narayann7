@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on flutter and dart
 - 🌱 I’m currently learning server side using nodejs
 - ⚡ I’m a linux enthusiast
-<p align="center"> 
+<p align="left"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/narayann7/count.svg" />
 </p>
