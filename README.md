@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&hide=c,cmake,html,swift,kotlin,objective-c&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-
+Resume[🔗](https://drive.google.com/file/d/1eKXLYYRB3_ecnlwGYs4Epwy4qip7G0GL/view?usp=sharing)
 
 ### 🤝 &nbsp;Connect with Me
 <!-- 
