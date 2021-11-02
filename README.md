@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 Resume[🔗](https://drive.google.com/file/d/1eKXLYYRB3_ecnlwGYs4Epwy4qip7G0GL/view?usp=sharing)
 
-### 🤝 &nbsp;Connect with Me
+<!-- ### 🤝 &nbsp;Connect with Me -->
+<h3 align="left"> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40px" width="70px"/></h3>
 <!-- 
 <p align="left">
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/-narayan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -48,9 +49,6 @@ Resume[🔗](https://drive.google.com/file/d/1eKXLYYRB3_ecnlwGYs4Epwy4qip7G0GL/v
  <a href="https://twitter.com/_narayann7"><img src="https://img.shields.io/badge/-@_narayann7-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <br>i am there everyWhere 😋
  -->
- 
- 
- 
  <p align="left">
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
