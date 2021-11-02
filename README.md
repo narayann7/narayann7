@@ -1,8 +1,12 @@
-### Hi there 👋 its narayann 
+<h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px"/> its narayan </h1>
+<!-- <h3 align="left">Student | Developer </h3> -->
+<h4 align="left">  🔭 I’m currently working on flutter and dart </h4>
+<h4 align="left">  🌱 I’m currently learning server side using nodejs </h4>
+<h4 align="left">  ⚡ I’m a linux enthusiast </h4>
 
-- 🔭 I’m currently working on flutter and dart
-- 🌱 I’m currently learning server side using nodejs
-- ⚡ I’m a linux enthusiast
+
+
+
 <!-- <p align="left"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/narayann7/count.svg" />
@@ -23,13 +27,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)       
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)   
+   
 
  
- 
- 
- 
+<!--  height="40px" width="70px" -->
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&hide=c,cmake,html,swift,kotlin,objective-c&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  -->
