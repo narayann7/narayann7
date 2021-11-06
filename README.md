@@ -57,7 +57,9 @@ Resume[🔗](https://drive.google.com/file/d/1eKXLYYRB3_ecnlwGYs4Epwy4qip7G0GL/v
 <a href="https://www.linkedin.com/in/laxmi-narayan-69819b191"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:laxminarayanreddy432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/_narayann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br>
 <a href="https://leetcode.com/narayann7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://www.hackerrank.com/skillZ06?hr_r=1"><img src="https://img.shields.io/badge/-HackerRank-2ec866?style=for-the-badge&logo=HackerRank&logoColor=black" /></a>
   <a href="https://open.spotify.com/user/jkqb4becefsfolv4ynnd7hrrq?si=ELqmbrNKSmi2gkE_KGOvXw&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/spotify-%FFAC32.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
  
