@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
 
-Resume : [🔗](https://drive.google.com/file/d/1a7nvq5cMTvKwGtBQ4tnpZau9S0OQwGah/view?usp=sharing) My Apps : [🔗](https://github.com/narayann7/all-read-me)
+Resume : [🔗](https://drive.google.com/file/d/1a7nvq5cMTvKwGtBQ4tnpZau9S0OQwGah/view?usp=sharing) My Apps : [🔗](https://github.com/narayann7/all-read-me/blob/main/all-apps.md)
 
 
 <!-- ### 🤝 &nbsp;Connect with Me -->
