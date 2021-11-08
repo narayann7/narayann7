@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px"/> its narayan  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1></h1>
+<h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px"/> its narayan  </h1></h1>
 
 - 🔭 I’m currently working on flutter and dart
 - 🌱 I’m currently learning server side using nodejs
@@ -35,7 +35,7 @@ Resume : [🔗](https://drive.google.com/file/d/1a7nvq5cMTvKwGtBQ4tnpZau9S0OQwGa
 
 
 <!-- DUMP ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat&&logo=Dart&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-%FFA116.svg?style=flat&&logo=Javascript&logoColor=white)
