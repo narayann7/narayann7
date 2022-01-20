@@ -6,12 +6,13 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
  -->
-Resume : [🔗](https://drive.google.com/file/d/1VHHDoFafH-jB8vh43kBUM_EjuTYTCH2c/view?usp=sharing) 
+Resume : [🔗](https://drive.google.com/file/d/1fkrxSpZbTz7eXwIztkzExDm39OVorLzb/view?usp=sharing) 
 <!-- My Apps : [🔗](https://github.com/narayann7/all-read-me/blob/main/all-apps.md) -->
 
 
 <!-- ### 🤝 &nbsp;Connect with Me -->
-<h3 align="left"> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px" width="60px"/></h3>
+<!-- <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px" width="60px"/> -->
+<h3 align="left"> Connect with me </h3>
 
  <p align="left">
   
