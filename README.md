@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on flutter 💙 dart
 - 🌱 I’m currently learning Android 💜 Kotlin
-- ⚡ I’m a linux enthusiast
+<!-- - ⚡ I’m a linux enthusiast -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
  -->
