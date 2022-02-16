@@ -1,12 +1,12 @@
 <h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px"/> its narayan  </h1></h1>
 
-- 🔭 I’m currently working on flutter 💙 dart
+- 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning Android 💜 Kotlin
 <!-- - ⚡ I’m a linux enthusiast -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
  -->
-Resume : [🔗](https://drive.google.com/file/d/1fkrxSpZbTz7eXwIztkzExDm39OVorLzb/view?usp=sharing) 
+Resume : [🔗](https://drive.google.com/file/d/1XSLK8QSoWiImZnffvoXIMBGQyWtJZA-1/view?usp=sharing) 
 <!-- My Apps : [🔗](https://github.com/narayann7/all-read-me/blob/main/all-apps.md) -->
 
 
@@ -23,6 +23,7 @@ Resume : [🔗](https://drive.google.com/file/d/1fkrxSpZbTz7eXwIztkzExDm39OVorLz
    [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/narayann7/)](https://leetcode.com/narayann7/)
    [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2ec866?style=flat-square&logo=Hackerrank&logoColor=black&link=https://www.hackerrank.com/skillZ06?hr_r=1)](https://www.hackerrank.com/skillZ06?hr_r=1)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ed660?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jkqb4becefsfolv4ynnd7hrrq?si=ELqmbrNKSmi2gkE_KGOvXw&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/jkqb4becefsfolv4ynnd7hrrq?si=ELqmbrNKSmi2gkE_KGOvXw&utm_source=copy-link&dl_branch=1)
+ [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-da680b?style=flat-square&logo=Stackoverflow&logoColor=black&link=https://stackoverflow.com/users/14385914/skillz)](https://stackoverflow.com/users/14385914/skillz)
   
 </p>
  
