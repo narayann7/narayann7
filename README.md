@@ -17,7 +17,7 @@ Resume : [🔗](https://drive.google.com/file/d/1Na3eF-zfvtdzZ4kxkIXDIbqOyf-u2gu
  <p align="left">
   
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxmi-narayan-69819b191)](https://www.linkedin.com/in/laxmi-narayan-69819b191)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxmi-narayan-69819b191)](https://www.linkedin.com/in/narayann/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxminarayanreddy432@gmail.com)](mailto:laxminarayanreddy432@gmail.com)
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/_narayann)](https://instagram.com/_narayann)
    [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/narayann7/)](https://leetcode.com/narayann7/)
