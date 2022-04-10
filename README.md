@@ -4,8 +4,8 @@
 <!-- - 🌱 I’m currently learning Android 💜 Kotlin -->
 <!-- - ⚡ I’m a linux enthusiast -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
- -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight)
+
 Resume : [🔗](https://drive.google.com/file/d/1Na3eF-zfvtdzZ4kxkIXDIbqOyf-u2guf/view?usp=sharing) 
 <!-- My Apps : [🔗](https://github.com/narayann7/all-read-me/blob/main/all-apps.md) -->
 
