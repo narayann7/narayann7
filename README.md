@@ -1,12 +1,12 @@
-<h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px"/> its narayan  </h1></h1>
+<h1 align="left">Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px" height ="40px"/> its narayan  </h1></h1>
 
 - 🔭 I’m currently working on Flutter 💙 Dart
-<!-- - 🌱 I’m currently learning Android 💜 Kotlin -->
+- 🌱 I’m currently learning MERN stack
 <!-- - ⚡ I’m a linux enthusiast -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayann7&show_icons=true&theme=tokyonight) -->
 
-Resume : [🔗](https://drive.google.com/file/d/1Na3eF-zfvtdzZ4kxkIXDIbqOyf-u2guf/view?usp=sharing) 
+Resume : [🔗](https://drive.google.com/file/d/1I_4mhtjjmUSWZ_u6s-Jd-8cUXNSdCwms/view?usp=sharing) 
 <!-- My Apps : [🔗](https://github.com/narayann7/all-read-me/blob/main/all-apps.md) -->
 
 
