@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning MERN stack
-- ⚡ my [Portfolio-site](https://narayann.me/)  🗒️ my [Resume](https://drive.google.com/file/d/1RWDnqbWynTUZ_qqe8ujR7SWSlVjgjful/view?usp=sharing) 
+- ⚡ my [Portfolio-site](https://narayann.me/)  🗒️ my [Resume](https://drive.google.com/file/d/1ez9ayxLCMtu3ogFoLV0BOAFT6raCz-6c/view?usp=sharing) 
 
 #
 <div>
