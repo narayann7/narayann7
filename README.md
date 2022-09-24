@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning Golang
 - 👀 can work on MERN stack projects
-- ⚡ my [Portfolio-site](https://narayann.me/)  🗒️ my [Resume](https://drive.google.com/file/d/1M7yt-Y8iOdKy-9MMOsAfweXMqWOdmKxJ/view?usp=sharing) 
+- ⚡ my [Portfolio-site](https://narayann.me/)  🗒️ my [Resume](https://drive.google.com/file/d/1pVqKF2xHp6IdU6f6olTZOH_zqhZRq40d/view?usp=sharing) 
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss,batchfile,powershell,python" >
