@@ -11,9 +11,9 @@
  
  
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss,batchfile,powershell,python" >
-  </a> -->
+  </a> 
 
 </div>
 <div>
