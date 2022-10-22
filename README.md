@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning Golang
-- 👀 can work on MERN stack projects
+- 👀 can collaborate on MERN stack projects
 - ⚡ my  <a href="https://narayann.me/" target="_blank">Portfolio-site</a> 🗒️ my <a href="https://drive.google.com/file/d/1CywxzONOdmyKp2dx8cnW_w-mUfIUdy49/view?usp=sharing" target="_blank">Resume</a>
-- 📃 my [Gists](https://gist.github.com/narayann7)
+<!-- - 📃 my [Gists](https://gist.github.com/narayann7)  -->
  
  
 
@@ -25,18 +25,18 @@
 <img src="https://user-images.githubusercontent.com/64174995/174016258-b0200beb-2d4e-4ae9-aaef-343e093dd156.png" width="32px" height ="25px"/>
 </a>
 &nbsp;
-<!--  google -->
+<!--  google 
 <a href="mailto:laxminarayanreddy432@gmail.com"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174017151-9b4ff81f-894e-40f2-84ef-95c47eb0f557.png" width="25px" height ="25px"/>
 </a>
-&nbsp;
+&nbsp;-->
 <!--  stackoverflow -->
 <a href="https://stackoverflow.com/users/14385914/skillz"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174018102-b62cb9d7-41c3-4936-92a0-c4e8600b486d.png" width="25px" height ="25px"/>
 </a>
 &nbsp;
 <!--  instagram -->
-<a href="https://instagram.com/_narayann?igshid=YmMyMTA2M2Y="  target="_blank">
+<a href="https://instagram.com/narayann.me?igshid=YmMyMTA2M2Y="  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174016472-c114ca43-7220-4933-a424-be3f7978bc8b.png" width="26px" height ="26px"/>
 </a>
 &nbsp;
