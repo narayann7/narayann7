@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning Golang
 - 👀 can collaborate on MERN stack projects
-- ⚡ my  <a href="https://narayann.me/" target="_blank">Portfolio-site</a> 🗒️ my <a href="https://drive.google.com/file/d/1QFFGLEDY5u7qMqXElrFCiWexni_r5Y64/view?usp=share_link" target="_blank">Resume</a>
+- ⚡ my  <a href="https://narayann.me/" target="_blank">Portfolio-site</a> 🗒️ my <a href="https://drive.google.com/file/d/1U22in6RXNDOwP3JsNqA9zDvL2hCvBfwP/view" target="_blank">Resume</a>
 <!-- - 📃 my [Gists](https://gist.github.com/narayann7)  -->
  
  
