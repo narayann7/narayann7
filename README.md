@@ -6,8 +6,9 @@
 
 - 🔭 I’m currently working on Flutter 💙 Dart
 - 🌱 I’m currently learning Golang
-- 👀 can collaborate on MERN stack projects
-- ⚡ my  <a href="https://narayann.me/" target="_blank">Portfolio-site</a> 🗒️ my <a href="https://drive.google.com/file/d/1U22in6RXNDOwP3JsNqA9zDvL2hCvBfwP/view" target="_blank">Resume</a>
+- 👀 Can collaborate on MERN stack projects
+- ⚡ My  <a href="https://narayann.me/" target="_blank">Portfolio-site</a> 🗒️ My <a href="https://drive.google.com/file/d/1U22in6RXNDOwP3JsNqA9zDvL2hCvBfwP/view" target="_blank">Resume</a>
+- 🤔 Busy dreaming about the billion dollar SaaS idea 
 <!-- - 📃 my [Gists](https://gist.github.com/narayann7)  -->
  
  
@@ -19,7 +20,7 @@
 </div>
 <div>
 
-<h3 align="left"> Connect with me :</h3>
+<h4 align="left"> Find me :</h4>
 <!--  linkedin -->
 <a href="https://www.linkedin.com/in/narayann/"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174016258-b0200beb-2d4e-4ae9-aaef-343e093dd156.png" width="32px" height ="25px"/>
@@ -45,6 +46,11 @@
 <img src="https://user-images.githubusercontent.com/64174995/174022729-6bc0cd8d-07fc-4277-970a-1ff7eaa6b04b.png" width="26px" height ="26px"/>
 </a>
 &nbsp;
+ <!--  hashnode -->
+<a href="https://narayann.hashnode.dev/"  target="_blank">
+<img src="https://user-images.githubusercontent.com/64174995/216338234-4cf8f60f-921a-465e-83ec-f1470abb87af.png" width="26px" height ="26px"/>
+</a>
+&nbsp;
 <!--  hackerank 
 <a href="https://www.hackerrank.com/skillZ06"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174022046-3df8ea38-613d-4469-b2db-64917fe1bbec.png" width="25px" height ="26px"/>
@@ -58,9 +64,6 @@
 </a> 
 </div>
 <br>
-
-
- 
 
 
  
