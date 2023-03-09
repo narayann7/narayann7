@@ -31,7 +31,12 @@
 <img src="https://user-images.githubusercontent.com/64174995/174017151-9b4ff81f-894e-40f2-84ef-95c47eb0f557.png" width="25px" height ="25px"/>
 </a>
 &nbsp;-->
-<!--  stackoverflow -->
+<!--  gitlab -->
+<a href="https://gitlab.com/narayan.reddy"  target="_blank">
+<img src="https://user-images.githubusercontent.com/64174995/223933758-7c1b612a-b8e3-4837-8cb1-e2f01affc6c7.png" width="25px" height ="25px"/>
+</a>
+&nbsp;
+ <!--  stackoverflow -->
 <a href="https://stackoverflow.com/users/14385914/skillz"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174018102-b62cb9d7-41c3-4936-92a0-c4e8600b486d.png" width="25px" height ="25px"/>
 </a>
@@ -64,6 +69,7 @@
 </a> 
 </div>
 <br>
+
 
 
  
