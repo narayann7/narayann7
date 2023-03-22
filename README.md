@@ -33,7 +33,7 @@
 &nbsp;-->
 <!--  gitlab -->
 <a href="https://gitlab.com/narayan.reddy"  target="_blank">
-<img src="https://user-images.githubusercontent.com/64174995/223933758-7c1b612a-b8e3-4837-8cb1-e2f01affc6c7.png" width="25px" height ="25px"/>
+<img src="https://user-images.githubusercontent.com/64174995/226859319-9ff2bac1-d7fa-4a1b-9f4a-b02dcae929ff.png" width="25px" height ="25px"/>
 </a>
 &nbsp;
  <!--  stackoverflow -->
@@ -69,6 +69,9 @@
 </a> 
 </div>
 <br>
+
+
+
 
 
 
