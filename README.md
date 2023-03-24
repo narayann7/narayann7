@@ -31,11 +31,7 @@
 <img src="https://user-images.githubusercontent.com/64174995/174017151-9b4ff81f-894e-40f2-84ef-95c47eb0f557.png" width="25px" height ="25px"/>
 </a>
 &nbsp;-->
-<!--  gitlab -->
-<a href="https://gitlab.com/narayan.reddy"  target="_blank">
-<img src="https://user-images.githubusercontent.com/64174995/226859319-9ff2bac1-d7fa-4a1b-9f4a-b02dcae929ff.png" width="25px" height ="25px"/>
-</a>
-&nbsp;
+
  <!--  stackoverflow -->
 <a href="https://stackoverflow.com/users/14385914/skillz"  target="_blank">
 <img src="https://user-images.githubusercontent.com/64174995/174018102-b62cb9d7-41c3-4936-92a0-c4e8600b486d.png" width="25px" height ="25px"/>
