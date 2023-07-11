@@ -7,7 +7,3 @@
 - ⚡ My  <a href="https://narayann.dev/" target="_blank">Portfolio site</a>  🗒️ My <a href="https://drive.google.com/file/d/16LzJRFtC5weQZw0YNwWLhNEzErna3Cyh/view" target="_blank">Resume</a>
 - <img src="https://user-images.githubusercontent.com/64174995/174018102-b62cb9d7-41c3-4936-92a0-c4e8600b486d.png" width="18px" height ="18px"/> StackOverflow Id  :
 <a href="https://stackoverflow.com/users/14385914/skillz"  target="_blank">here</a>
-
- <a href="https://github.com/anuraghazra/github-readme-stats">⠀
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayann7&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss,batchfile,powershell,python,autohotkey" >
-  </a> 
