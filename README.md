@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently working at [**Posha**](https://posha.com/) as Software Developer 2
 - ⚙️ I use daily: `.ts`, `.dart`, `.py`, `.java`
-- 🌱 Learning all about **System Design** and **Argentic AI**
+- 🌱 Learning all about **System Design** and **Agentic AI**
 - 💬 Ping me about **Mobile Dev**, **Backend**, **Web Dev**
 - 🌐 Check out my portfolio at [**narayann.dev**](https://narayann.dev)
 - ⚡ Motto: _Ship fast, learn faster._
